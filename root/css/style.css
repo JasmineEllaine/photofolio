@@ -54,7 +54,7 @@ body {
   grid-column-end: 4;
 }
 
-/* Img align center + shadow + rounded corners */
+/* Img shadow + rounded corners + transition + border + opacity */
 img {
   display: block;
   margin-left: auto;
